@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="240" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/9d683895-535a-43d9-8cc8-34012dd831be" />
+</p>
+
 # Memento Cognitio
 
 Memento Cognitio is a hardware-software system designed to capture images, analyze them using AI, and deliver concise spoken descriptions via Bluetooth. The project consists of firmware for Adafruit MEMENTO Camera Board and a Python-based Bluetooth receiver for desktop use.
