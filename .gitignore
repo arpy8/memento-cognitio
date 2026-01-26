@@ -1,0 +1,15 @@
+.env
+.venv/
+
+*ignr*
+
+.fseventsd/
+.lib/
+.metadata_never_index
+.Trash-1000
+.Trashes
+System Volume Information/
+
+boot_out.txt
+
+settings.toml
